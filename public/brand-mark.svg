@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" aria-label="SuperCompress">
+  <g fill="#0566ff">
+    <path d="M26 6H46L60 20 74 6H94L60 40Z"/>
+    <path d="M0 0V20L60 81 120 20V0L60 61Z"/>
+    <path d="M0 40V78L60 139 120 78V40L60 101Z"/>
+    <path d="M0 96V140H42ZM120 96V140H78Z"/>
+  </g>
+  <path d="M0 40V59L60 120 120 59V40L60 101Z" fill="#8fbaff"/>
+</svg>
